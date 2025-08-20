@@ -37,7 +37,7 @@ coming_soon/
 ## 📖 References
 - Andrew Ng’s ML Specialization (Coursera)  
 - *Pattern Recognition and Machine Learning* – Christopher Bishop  
-- Research papers on **EEG + ML for BCI** (Prof. Sathiya Jothi’s domain)  
+- Research papers on **EEG + ML for BCI**
 
 ---
 
