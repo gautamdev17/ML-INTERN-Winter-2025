@@ -1,7 +1,14 @@
-EEG measures the brain’s electrical activity using scalp electrodes. It has millisecond time resolution, directly reflects neural firing, and is ideal for studying cognitive and emotional processing. EEG signals include raw time-waveforms and frequency rhythms (delta, theta, alpha, beta, gamma), extracted via FFT. The data is noisy due to blinks, muscle activity, electrode movement, and line noise, so preprocessing (filtering, artifact removal, epoching, baseline correction) is essential.
+EEG measures the brain’s electrical activity using scalp electrodes. 
+It has millisecond time resolution, directly reflects neural firing, and is ideal for studying cognitive and emotional processing. 
+EEG signals include raw time-waveforms and frequency rhythms (delta, theta, alpha, beta, gamma), extracted via FFT. 
+The data is noisy due to blinks, muscle activity, electrode movement, and line noise, so preprocessing (filtering, artifact removal, epoching, baseline correction) is essential.
 
-Two core EEG analysis approaches exist: Event-Related Potentials (ERPs) that average responses to repeated stimuli, and frequency-based analysis that measures the power of oscillations related to attention, workload, relaxation, or motor activity.
+Two core EEG analysis approaches exist: Event-Related Potentials (ERPs) that average responses to repeated stimuli, and frequency-based analysis that measures the power of 
+oscillations related to attention, workload, relaxation, or motor activity.
 
-Machine learning is needed because EEG is high-dimensional, noisy, and varies across people. ML models classify cognitive states, detect events, decode intentions, or predict conditions from EEG features. Typical pipelines include preprocessing → feature extraction (frequency power, ERPs, spectrograms, raw data) → ML models (SVM, Random Forest, CNNs, LSTMs, EEGNet). Deep learning helps learn complex patterns that traditional methods cannot capture.
+Machine learning is needed because EEG is high-dimensional, noisy, and varies across people. 
+ML models classify cognitive states, detect events, decode intentions, or predict conditions from EEG features.
+Typical pipelines include preprocessing → feature extraction (frequency power, ERPs, spectrograms, raw data) → ML models (SVM, Random Forest, CNNs, LSTMs, EEGNet). Deep learning helps learn complex patterns that traditional methods cannot capture.
 
-In EEG-ML projects you will clean data, extract features, train models, and evaluate performance for tasks like workload estimation, emotion classification, seizure detection, or cognitive state monitoring.
+In EEG-ML projects you will clean data, extract features, train models, and evaluate performance for tasks like workload estimation,
+emotion classification, seizure detection, or cognitive state monitoring.
