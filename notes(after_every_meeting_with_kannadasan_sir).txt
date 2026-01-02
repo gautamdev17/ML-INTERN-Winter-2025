@@ -1,0 +1,11 @@
+i spoke to ml intern prof
+i told him i did epoching rereferencing and filtering an asked him how to extract features
+he told we cant do that in eeglab
+he told to write matlab code only
+so like he told some set of features some like he told after epoching we convert each epoch to features and like we put in for loop in matlab
+then he told there are some datasets to work on
+dasps anxiety eeg
+imagine the speech eeg kaggle
+he told eeglab-->matlab(feature extraction)-->classification learner
+first he told to explore programs already there in kaggle and understand the workflow
+then try out myself
