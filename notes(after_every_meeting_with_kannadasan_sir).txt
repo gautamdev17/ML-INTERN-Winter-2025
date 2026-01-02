@@ -11,4 +11,3 @@ imagine the speech eeg kaggle
 he told eeglab-->matlab(feature extraction)-->classification learner
 first he told to explore programs already there in kaggle and understand the workflow
 then try out myself
-
